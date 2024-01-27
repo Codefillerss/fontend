@@ -1,0 +1,67 @@
+.cstmlogin-box h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 28px;
+}
+.form-group-mng {
+    margin-bottom: 24px;
+}
+.form-group-mng label {
+    font-size: 14px;
+    color: #333333;
+    font-weight: 500;
+    margin-bottom: 4px;
+}
+.form-group-mng input {
+    height: 40px;
+    border: 1px solid #939393;
+    width: 100%;
+    padding: 12px;
+    border-radius: 4px;
+}
+.label-forgot-pass {
+    display: flex;
+    justify-content: space-between;
+}
+.label-forgot-pass label {
+    display: flex;
+    gap: 8px;
+    font-size: 14px;
+    color: #333333;
+    align-items: center;
+}
+.label-forgot-pass a {
+    font-size: 14px;
+    color: #0A2E5B;
+    font-weight: 600;
+    text-decoration: underline;
+}
+.login-btn{
+    background-color: #FF9900;
+    height: 40px;
+    text-align: center;
+    border-radius: 4px;
+    color:#111;
+    width:100%;
+    margin-top:36px;
+    font-weight: 600;
+}
+.sign-up-text{
+    margin-top:28px;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+    font-weight: 500;
+}
+.sign-up-text a{
+    color: #0A2E5B;
+    font-weight:600;
+    text-decoration: underline;
+}
+img.box-img {
+    position: absolute;
+    bottom: -40px;
+    right: -60px;
+    width: 120px;
+}
